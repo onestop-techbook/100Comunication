@@ -1,29 +1,28 @@
 PREDEF:
-  - chap-preface.re
+  - preface.re
 
 CHAPS:
-  # 1部 挑戦/Challenge
-  - chap-challenge-00-index.re:
-    # タイトルほげほげ / @dummy
-    - chap-challenge-dummy.re
+  # 1部 仕事
+  - chap-work-00-index.re:
+    # 仕事関係いろいろ
+    - chap-Work-dummy.re
 
 
 
-  # 2部 失敗/Failure
-  - chap-failure-00-index.re:
-    # タイトルほげほげ / @dummy
-    - chap-failure-dummy.re
-    # ここに自身の章を追加してください
-    # ファイル名は「chap-failure-[アカウント].re」としてください
-    # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
+  # 2部 友人
+  - chap-friend-00-index.re:
+    # 友人関係いろいろ
+    - chap-friend-dummy.re
 
 
-  # 3部 決断/Decision
-  - chap-decision-00-index.re:
-    # タイトルほげほげ / @dummy
-    - chap-decision-dummy.re
-    # タイトル：思いつきという名の決断　〜実行したことがもたらしてくれたもの / @おやかた
+
+  # 3部 家族
+  - chap-family-00-index.re:
+    # 家族関係いろいろ
+    - chap-family-dummy.re
+    # 
     - chap-decision-oyakata.re
 
 POSTDEF:
+  - postscript.re
   - chap-contributors.re
