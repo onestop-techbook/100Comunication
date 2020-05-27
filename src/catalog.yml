@@ -5,7 +5,7 @@ CHAPS:
   # 1部 仕事
   - chap-work-00-index.re:
     # 仕事関係いろいろ
-    - chap-Work-dummy.re
+    - chap-work-dummy.re
 
 
 
