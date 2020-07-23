@@ -20,8 +20,13 @@ CHAPS:
   - chap-family-00-index.re:
     # 家族関係いろいろ
     - chap-family-dummy.re
-    # 
+    #
     - chap-decision-oyakata.re
+
+  # 4部 その他
+  - chap-other-00-index.re:
+    #
+    - chap-community-FORTE.re
 
 POSTDEF:
   - postscript.re
