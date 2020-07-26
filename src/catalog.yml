@@ -27,6 +27,7 @@ CHAPS:
   - chap-other-00-index.re:
     #
     - chap-community-FORTE.re
+    - chap-FaceToFace-gomana2.re
 
 POSTDEF:
   - postscript.re
