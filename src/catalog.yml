@@ -8,6 +8,8 @@ CHAPS:
       - chap-work-dummy.re
       - chap-meeting-authyasan.re
       - chap-mailreply.re
+      - chap-ForeignStaffRemote.re
+      - chap-community-conflictmng.re
 
   # 2部 友人
   - chap-friend-00-index.re:
@@ -27,8 +29,6 @@ CHAPS:
       - chap-community-FORTE.re
       - chap-FaceToFace-gomana2.re
       - chap-fact-erukiti.re
-      - chap-ForeignStaffRemote.re
-      - chap-community-conflictmng.re
 
 POSTDEF:
   - postscript.re
