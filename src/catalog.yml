@@ -5,7 +5,7 @@ CHAPS:
   # 1部 仕事
   - chap-work-00-index.re:
       # 仕事関係いろいろ
-      - chap-work-dummy.re
+      # - chap-work-dummy.re
       - chap-meeting-authyasan.re
       - chap-mailreply.re
       - chap-ForeignStaffRemote.re
@@ -19,8 +19,7 @@ CHAPS:
   # 3部 家族
   - chap-family-00-index.re:
       # 家族関係いろいろ
-      - chap-family-dummy.re
-      #
+      # - chap-family-dummy.re
       - chap-decision-oyakata.re
 
   # 4部 その他
