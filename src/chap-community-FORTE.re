@@ -87,10 +87,12 @@
 NVCとはNonviolent Communicationの略で、日本語に訳すと非暴力コミュニケーションとなるそうです。私は次の記事を見た後に今回のようなことがあり、活用できそうだと感じました。
 
 @<href>{https://note.com/nvc_giraffe/n/nd24588aef5c9,NVC（非暴力コミュニケーション）の基本} @<fn>{nvc_url1}
+
 @<href>{https://www.si-ght.jp/entry/miraiit009, マンガでわかる未来のIT 第9話「NVCで風通しのよいコミュニケーションを」} @<fn>{nvc_url2}
 
 //blankline
 書籍としてはマーシャル・B・ローゼンバーグ著の次の本が有名です。
+
 @<href>{https://www.amazon.co.jp/dp/4532321956,NVC 人と人との関係にいのちを吹き込む法} @<fn>{nvc_book1}
 
 //footnote[nvc_url1][https://note.com/nvc_giraffe/n/nd24588aef5c9,NVC（非暴力コミュニケーション）の基本]
