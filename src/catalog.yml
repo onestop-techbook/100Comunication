@@ -8,6 +8,7 @@ CHAPS:
       # - chap-work-dummy.re
       - chap-meeting-authyasan.re
       - chap-mailreply.re
+      - chap-mailreply_delay.re
       - chap-ForeignStaffRemote.re
       - chap-community-conflictmng.re
 
