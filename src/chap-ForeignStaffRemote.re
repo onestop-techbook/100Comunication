@@ -50,7 +50,7 @@
 
 なお、実はここらへんの具体的な技術に関する知見は、既出の親方Projectの合同誌「ワンストップ　オンライン生活」@<fn>{Online}２章に既にアウトプット済みです！（ばばーん！）
 
-//image[ForeignStaffRemote/OSOnlineImage.jpg][ワンストップ　オンライン生活][scale=0.3]
+//image[OSOnlineImage.jpg][ワンストップ　オンライン生活][scale=0.3]
 
 よかったらこっちもぜひ買ってね！
 
