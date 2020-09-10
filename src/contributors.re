@@ -133,7 +133,24 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 //}
 大阪在住。前職はSIerでしたが３年前に飽きて今はよくわからない仕事(敢えていうなら社内SEですね…)になりました。
 あと、近畿青年技術士懇親会 http://seigikon.jp\\ って勉強会の幹事をさせていただいています。
-資格は10種以上もってますね。色々あったんですよ…　いやほんと。
+フルスタックというよりはオールラウンダー雑用型です。
+
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mitsubachi_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        光ばち @mitubati2022 https://twitter.com/mitubati2022\\
+        田舎の情報系大学院1年生です。
+        \end{minipage}
+    \hspace{1ex}
+//}
+応用情報を神頼みでゲットしました。
+今は、オンライン化の恩恵を受けて、就活費が浮いた分食費が増えました。体重も増えました。
+
 
 あとおにぎりさんも書いてもらわないとー
 
