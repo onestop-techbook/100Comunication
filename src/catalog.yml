@@ -31,6 +31,7 @@ CHAPS:
       - chap-FaceToFace-gomana2.re
       - chap-fact-erukiti.re
       - chap-onlinelecture.re
+      - chap-supportandfrank.re
 
 POSTDEF:
   - postscript.re
