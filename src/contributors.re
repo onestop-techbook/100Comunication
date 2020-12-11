@@ -36,22 +36,6 @@
 
 == 著者
 
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        KANE @higuyume https://twitter.com/higuyume\\
-        サークル名： growthfaction
-        \end{minipage}
-    \hspace{1ex}
-//}
-人の力で世界を便利にする企業で働いているWebディレクター
-Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
-
-
-　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -101,25 +85,6 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 
 
 
-
-　
-
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        もっと@mottox2 https://twitter.com/mottox2\\
-        サークル名： つのぶえ出版
-        \end{minipage}
-    \hspace{1ex}
-//}
-フリーランスでウェブフロントエンドを中心にエンジニアリングをやっています。4年ほどリモート中心で働いていたら、いきなりリモートワークが推奨される社会になってびっくりしています。
-
-　
-
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -153,13 +118,34 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 
 　
 
-あとおにぎりさんも書いてもらわないとー
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/dolly_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        どりぃ@p52\_rocca https://twitter.com/p52\_rocca\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+おはようからおやすみまでみつめるどりぃです。
+大阪のシステム開発会社で開発以外のIT全般雑多にやってます。
+最近はマーケティング率高め。
 
 == 表紙イラスト・デザイン　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/llminatoll_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        湊川あい @llminatoll https://twitter.com/llminatoll\\
+        サークル名：湊川あいの、わかば家。 https://note.com/llminatoll
+        \end{minipage}
+    \hspace{1ex}
+//}
+湊川あいです。今回も表紙イラストを担当させていただきました。
 
-湊川あい
-
-役割ごとにタグ作るもアリかな。
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
