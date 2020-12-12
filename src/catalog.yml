@@ -36,6 +36,7 @@ CHAPS:
       - chap-fact-erukiti.re
       - chap-onlinelecture.re
       - chap-supportandfrank.re
+      - chap-kinoko.re
 
 POSTDEF:
   - postscript.re
