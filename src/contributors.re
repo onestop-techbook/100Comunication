@@ -132,6 +132,22 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 大阪のシステム開発会社で開発以外のIT全般雑多にやってます。
 最近はマーケティング率高め。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/icon_kinoko.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        きの子 @aa7th https://twitter.com/aa7th\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+個人事業でエンジニアやってます。大阪在住。
+最近はJava(Webサーバーサイド)中心。
+ITコミュニティ運営もいろいろやっています。
+
 == 表紙イラスト・デザイン　
 //embed{
     \begin{minipage}{.1\linewidth}

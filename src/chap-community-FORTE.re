@@ -162,7 +162,7 @@ NVCによって発信受信の前にワンクッション置けるのが良い�
 
 可能なら同じ悩みを感じる人々同士で、定期的にNVCふりかえりのようなことをやると良さそうです。今週あったことに対してNVCに則って振り返ってみる、実際にNVCを用いてみた例を共有して意見を求めてみる、その反応もNVCでやれると良い練習になりそうですね。
 
-//image[forte_0004][Photo by Hybrid on Unsplash]
+//image[forte_0004][Photo by Hybrid on Unsplash][scale=0.3]
 
 == NVCな毎日のために
 
