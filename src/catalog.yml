@@ -37,6 +37,8 @@ CHAPS:
       - chap-onlinelecture.re
       - chap-supportandfrank.re
       - chap-kinoko.re
+      - chap-cfp1.re
+      - chap-share-outline.re
 
 POSTDEF:
   - postscript.re
