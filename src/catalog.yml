@@ -25,12 +25,11 @@ CHAPS:
   # 3部 家族
   - chap-family-00-index.re:
       # 家族関係いろいろ
-      # - chap-family-dummy.re
+      - chap-family-dummy.re
       
 
   # 4部 その他
   - chap-other-00-index.re:
-      #
       - chap-community-FORTE.re
       - chap-FaceToFace-gomana2.re
       - chap-fact-erukiti.re
