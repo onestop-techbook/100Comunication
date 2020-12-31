@@ -40,6 +40,8 @@ CHAPS:
       - chap-share-outline.re
       - chap-usedrawing.re
       - chap-akapen.re
+      - chap-airfight.re
+      - chap-whatunknown.re
 
 POSTDEF:
   - postscript.re
