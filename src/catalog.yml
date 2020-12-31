@@ -26,22 +26,29 @@ CHAPS:
   - chap-family-00-index.re:
       # 家族関係いろいろ
       - chap-family-dummy.re
-      
+
+  # 4部 勉強会・コミュニティ
+  - chap-community-00-index.re:    
+      - chap-talkinmeetup.re
+      - chap-talkinmeetup2-speaker.re
+      - chap-community-FORTE.re
+      - chap-cfp1.re
+      - chap-uchiwa.re
+
 
   # 4部 その他
   - chap-other-00-index.re:
-      - chap-community-FORTE.re
       - chap-FaceToFace-gomana2.re
       - chap-fact-erukiti.re
       - chap-onlinelecture.re
       - chap-supportandfrank.re
       - chap-kinoko.re
-      - chap-cfp1.re
       - chap-share-outline.re
       - chap-usedrawing.re
       - chap-akapen.re
       - chap-airfight.re
       - chap-whatunknown.re
+
 
 POSTDEF:
   - postscript.re
