@@ -148,6 +148,22 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 最近はJava(Webサーバーサイド)中心。
 ITコミュニティ運営もいろいろやっています。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        さっぴー川原 @sapi\_kawahara https://twitter.com/sapi\_kawahara\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+昔ゲーム機ソフトを作ってたITエンジニア、現在はフルスタックエンジニアとして幅広いスキルでやっています。
+ブログも書いているので是非見てください。@<br>{}
+「人生100年!生涯エンジニア人生!」@<href>{https://kawahara-ci.hatenablog.com/, https://kawahara-ci.hatenablog.com/}
+
+
 == 表紙イラスト・デザイン　
 //embed{
     \begin{minipage}{.1\linewidth}
