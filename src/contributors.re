@@ -148,6 +148,8 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 最近はJava(Webサーバーサイド)中心。
 ITコミュニティ運営もいろいろやっています。
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -163,6 +165,8 @@ ITコミュニティ運営もいろいろやっています。
 ブログも書いているので是非見てください。@<br>{}
 「人生100年!生涯エンジニア人生!」@<href>{https://kawahara-ci.hatenablog.com/, https://kawahara-ci.hatenablog.com/}
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -174,6 +178,8 @@ ITコミュニティ運営もいろいろやっています。
     \hspace{1ex}
 //}
 IT企業で働くママエンジニアです。最近はPMのおしごとがメイン。
+
+　
 
 
 == 表紙イラスト・デザイン　
