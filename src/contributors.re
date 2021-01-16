@@ -163,6 +163,18 @@ ITコミュニティ運営もいろいろやっています。
 ブログも書いているので是非見てください。@<br>{}
 「人生100年!生涯エンジニア人生!」@<href>{https://kawahara-ci.hatenablog.com/, https://kawahara-ci.hatenablog.com/}
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ebichiki_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        えびちき @ebichiki https://twitter.com/ebichiki\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+IT企業で働くママエンジニアです。最近はPMのおしごとがメイン。
+
 
 == 表紙イラスト・デザイン　
 //embed{

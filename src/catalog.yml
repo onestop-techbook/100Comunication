@@ -29,6 +29,7 @@ CHAPS:
   - chap-family-00-index.re:
       # 家族関係いろいろ
       - chap-onlinefarewell.re
+      - chap-family-ebichiki.re
 
   # 4部 勉強会・コミュニティ
   - chap-community-00-index.re:
