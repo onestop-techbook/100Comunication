@@ -179,7 +179,21 @@ ITコミュニティ運営もいろいろやっています。
 //}
 IT企業で働くママエンジニアです。最近はPMのおしごとがメイン。
 
-　
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/fan_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ふぁん @fan\_tech\_ https://twitter.com/fan\_tech\_\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+趣味でプログラミングと動画制作しています。
+エンジニアさん界隈で良くしていただいております。
+
 
 
 == 表紙イラスト・デザイン　
