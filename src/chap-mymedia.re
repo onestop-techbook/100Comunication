@@ -35,10 +35,9 @@ TwitterやFacebookなどのソーシャル系サービスは情報が流れて�
  * ハンドメイド作家
  ** minne
  ** Creema
- * 動画配信
- ** YouTube
- * 音声配信
- ** Voicy
+ * コンテンツ配信
+ ** YouTube (動画)
+ ** Voicy (音声)
  * 電子出版
  ** BOOTH
 
