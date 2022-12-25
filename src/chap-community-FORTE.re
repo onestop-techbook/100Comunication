@@ -47,7 +47,7 @@
 
 これらの投稿を読んだ私は全て正しいと感じました。しかし、モヤモヤを抱いていることも、それを言語化できないのも事実でした。
 
-//image[forte_0002][Photo by Tingey Injury Law Firm on Unsplash][scale=0.4]
+//image[forte_0002][Photo by Tingey Injury Law Firm on Unsplash][scale=0.2]
 
 === 何にモヤモヤしていたか？
 
