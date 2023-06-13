@@ -67,6 +67,9 @@ CHAPS:
       - chap-livecording.re
       - chap-gatheringandpresen.re
       - chap-readingevent.re
+# 入れるところ未定
+      - chap-entrysheet.re
+      - chap-infosharetriangle.re
 
 
 
