@@ -70,7 +70,7 @@ CHAPS:
 # 入れるところ未定
       - chap-entrysheet.re
       - chap-infosharetriangle.re
-
+      - chap-exact-terms.re
 
 
 POSTDEF:
