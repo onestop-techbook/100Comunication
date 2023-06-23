@@ -71,6 +71,8 @@ CHAPS:
       - chap-entrysheet.re
       - chap-infosharetriangle.re
       - chap-exact-terms.re
+      - chap-fractal.re
+
 
 
 POSTDEF:
