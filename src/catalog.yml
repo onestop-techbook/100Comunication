@@ -79,8 +79,7 @@ CHAPS:
       - chap-favorability3.re
       - chap-favorability4.re
       - chap-favorability5.re
-
-
+      - chap-kinasato.re
 
 POSTDEF:
   - postscript.re
