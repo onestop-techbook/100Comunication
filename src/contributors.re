@@ -160,7 +160,6 @@ ITコミュニティ運営もいろいろやっています。
         \end{minipage}
     \hspace{1ex}
 //}
-
 昔ゲーム機ソフトを作ってたITエンジニア、現在はフルスタックエンジニアとして幅広いスキルでやっています。
 ブログも書いているので是非見てください。@<br>{}
 「人生100年!生涯エンジニア人生!」@<href>{https://kawahara-ci.hatenablog.com/, https://kawahara-ci.hatenablog.com/}
@@ -179,7 +178,7 @@ ITコミュニティ運営もいろいろやっています。
 //}
 IT企業で働くママエンジニアです。最近はPMのおしごとがメイン。
 
-
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -208,6 +207,8 @@ IT企業で働くママエンジニアです。最近はPMのおしごとがメ�
 //}
 前職は製造業、現職はWeb業界で働くiOSエンジニアです。最近カンファレンススタッフデビューしました。
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -218,10 +219,23 @@ IT企業で働くママエンジニアです。最近はPMのおしごとがメ�
         \end{minipage}
     \hspace{1ex}
 //}
-
 Webマーケティング調査と事業計画立案。主に自己サービスのWebサイト制作・運営ですが他にも動画・アプリ・ゲーム制作、テクニカルライター、ラジオ出演など。富山IT勉強会主催。
 技術系ノウハウサイトはこちら@<br>{}
 電脳世界@<href>{https://denno-sekai.com/, https://denno-sekai.com/}
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kinasato_icon_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        鬼無里 餅衛門 @kinasato_mochi https://twitter.com/kinasato_mochi\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+北陸地方在住のフルリモート情シス/コーポレートITエンジニアです。しがない情シスの日々を書き綴ったりしています。
 
 == 表紙イラスト・デザイン　
 //embed{
