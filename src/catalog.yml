@@ -27,7 +27,12 @@ CHAPS:
   # 2部 友人
   - chap-friend-00-index.re:
       # 友人関係いろいろ
-      - chap-friend-dummy.re
+      - chap-favorability1.re
+      - chap-favorability2.re
+      - chap-favorability3.re
+      - chap-favorability4.re
+      - chap-favorability5.re
+      #- chap-friend-dummy.re
 
   # 3部 家族
   - chap-family-00-index.re:
@@ -75,11 +80,6 @@ CHAPS:
       - chap-fractal.re
       - chap-radio_communication.re
       - chap-work-bizcom.re
-      - chap-favorability1.re
-      - chap-favorability2.re
-      - chap-favorability3.re
-      - chap-favorability4.re
-      - chap-favorability5.re
       - chap-kinasato.re
 
 POSTDEF:
