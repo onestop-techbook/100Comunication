@@ -81,6 +81,7 @@ CHAPS:
       - chap-radio_communication.re
       - chap-work-bizcom.re
       - chap-kinasato.re
+      - chap-tradeiscom.re
 
 POSTDEF:
   - postscript.re
