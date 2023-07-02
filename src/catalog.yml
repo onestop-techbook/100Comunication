@@ -82,6 +82,7 @@ CHAPS:
       - chap-work-bizcom.re
       - chap-kinasato.re
       - chap-tradeiscom.re
+      - chap-zajonc.re
 
 POSTDEF:
   - postscript.re
