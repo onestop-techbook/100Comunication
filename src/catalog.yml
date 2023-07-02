@@ -83,6 +83,7 @@ CHAPS:
       - chap-kinasato.re
       - chap-tradeiscom.re
       - chap-zajonc.re
+      - chap-zakkiea.re
 
 POSTDEF:
   - postscript.re
