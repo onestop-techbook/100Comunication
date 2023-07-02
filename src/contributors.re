@@ -237,6 +237,20 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
 //}
 北陸地方在住のフルリモート情シス/コーポレートITエンジニアです。しがない情シスの日々を書き綴ったりしています
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nora_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ざっきー @Zakkiea https://twitter.com/Zakkiea\\
+        サークル名： ノラハック
+        \end{minipage}
+    \hspace{1ex}
+//}
+趣味でモノづくり活動「野良ハック」やコミュニティ活動でオンライン・オフライン・ハイブリッドイベントの企画・運営・配信・アーカイブ編集/管理支援をやっています。
 
 == 表紙イラスト・デザイン　
 //embed{
