@@ -84,6 +84,7 @@ CHAPS:
       - chap-tradeiscom.re
       - chap-zajonc.re
       - chap-zakkiea.re
+      - chap-task-control.re
 
 POSTDEF:
   - postscript.re
