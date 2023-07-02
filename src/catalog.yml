@@ -72,8 +72,7 @@ CHAPS:
       - chap-infosharetriangle.re
       - chap-exact-terms.re
       - chap-fractal.re
-
-
+      - chap-task-control.re
 
 POSTDEF:
   - postscript.re
