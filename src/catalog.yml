@@ -86,6 +86,7 @@ CHAPS:
       - chap-zajonc.re
       - chap-zakkiea.re
       - chap-task-control.re
+      - chap-fumiyasac.re
 
 POSTDEF:
   - postscript.re
