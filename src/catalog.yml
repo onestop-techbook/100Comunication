@@ -87,6 +87,8 @@ CHAPS:
       - chap-zakkiea.re
       - chap-task-control.re
       - chap-fumiyasac.re
+      - chap-letterfromelementaryschool.re
+      - chap-gengai.re
 
 POSTDEF:
   - postscript.re
