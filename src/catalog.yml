@@ -87,6 +87,8 @@ CHAPS:
       - chap-zakkiea.re
       - chap-task-control.re
       - chap-fumiyasac.re
+      - chap-rhodium-1.re
+      
 
 POSTDEF:
   - postscript.re
