@@ -89,6 +89,8 @@ CHAPS:
       - chap-fumiyasac.re
       - chap-letterfromelementaryschool.re
       - chap-gengai.re
+      - chap-rhodium-1.re
+      
 
 POSTDEF:
   - postscript.re
