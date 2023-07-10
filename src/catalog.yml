@@ -35,6 +35,7 @@ CHAPS:
       - chap-favorability4.re
       - chap-favorability5.re
       #- chap-friend-dummy.re
+      - chap-yumechi-friend-1.re
 
   # 3部 家族
   - chap-family-00-index.re:

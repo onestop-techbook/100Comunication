@@ -252,6 +252,22 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
 //}
 趣味でモノづくり活動「野良ハック」やコミュニティ活動でオンライン・オフライン・ハイブリッドイベントの企画・運営・配信・アーカイブ編集/管理支援をやっています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yumechi_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        yumechi @\_\_yumechi https://twitter.com/\_\_yumechi\\
+        @\_\_yumechi@misskey.systems\\
+        サークル名： 焼肉のために本気出します
+        \end{minipage}
+    \hspace{1ex}
+//}
+のんびりPythonのソフトウェアエンジニアやってます。たまに焼肉のために本気を出して同人誌を書くこともあります。この本のアイコンは技術書典のサークル画像として設定しているものです。本当はゲームばっかりしていたいです。
+
 == 表紙イラスト・デザイン　
 //embed{
     \begin{minipage}{.1\linewidth}
