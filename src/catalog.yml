@@ -60,7 +60,7 @@ CHAPS:
       - chap-onlinelecture.re
       - chap-supportandfrank.re
       - chap-kinoko.re
-      - chap-share-outline.res
+      - chap-share-outline.re
       - chap-usedrawing.re
       - chap-akapen.re
       - chap-airfight.re
@@ -75,7 +75,7 @@ CHAPS:
       - chap-gatheringandpresen.re
       - chap-readingevent.re
       - chap-workcation-commu.re
-  # 入れるところ未定
+# 入れるところ未定
       - chap-entrysheet.re
       - chap-infosharetriangle.re
       - chap-exact-terms.re
