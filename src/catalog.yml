@@ -52,6 +52,7 @@ CHAPS:
       - chap-cfp-kawahara.re
       - chap-community-giveandgive.re
 
+
   # 4部 その他
   - chap-other-00-index.re:
       - chap-FaceToFace-gomana2.re
@@ -59,7 +60,7 @@ CHAPS:
       - chap-onlinelecture.re
       - chap-supportandfrank.re
       - chap-kinoko.re
-      - chap-share-outline.re
+      - chap-share-outline.res
       - chap-usedrawing.re
       - chap-akapen.re
       - chap-airfight.re
@@ -74,7 +75,7 @@ CHAPS:
       - chap-gatheringandpresen.re
       - chap-readingevent.re
       - chap-workcation-commu.re
-      # 入れるところ未定
+  # 入れるところ未定
       - chap-entrysheet.re
       - chap-infosharetriangle.re
       - chap-exact-terms.re
@@ -91,6 +92,7 @@ CHAPS:
       - chap-gengai.re
       - chap-rhodium-1.re
       - chap-specification.re
+
 
 POSTDEF:
   - postscript.re
