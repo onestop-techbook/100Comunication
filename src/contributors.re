@@ -43,12 +43,12 @@
         \includegraphics[width=.75\linewidth]{images/contributors/gomana2_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ごまなつ @gomana2 https://twitter.com/gomana2\\
+        ごまなつ @gomana2 https://twitter.com/akrolayer\\
         サークル名： ごまなつプロジェクト
         \end{minipage}
     \hspace{1ex}
 //}
-Windowsフォームアプリケーション作ってます。ブログ・note書いたり、Podcast配信、ゲーセン、キーボードといった趣味で活動中。
+SESでWebアプリ開発してます。ブログ・note書いたり、ゲーセン、キーボードといった趣味で活動中。
 
 　
 
