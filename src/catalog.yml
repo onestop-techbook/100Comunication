@@ -92,6 +92,9 @@ CHAPS:
       - chap-gengai.re
       - chap-rhodium-1.re
       - chap-specification.re
+      - chap-headset.re
+      - chap-slacknotification.re
+      - chap-kabeuchi.re
 
 
 POSTDEF:
