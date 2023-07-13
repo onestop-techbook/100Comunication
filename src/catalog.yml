@@ -35,6 +35,7 @@ CHAPS:
       - chap-favorability4.re
       - chap-favorability5.re
       #- chap-friend-dummy.re
+      - chap-yumechi-friend-1.re
 
   # 3部 家族
   - chap-family-00-index.re:
@@ -51,6 +52,7 @@ CHAPS:
       - chap-uchiwa.re
       - chap-cfp-kawahara.re
       - chap-community-giveandgive.re
+      - chap-yumechi-before-cfp.re
 
 
   # 4部 その他
