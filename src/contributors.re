@@ -268,6 +268,21 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
 //}
 のんびりPythonのソフトウェアエンジニアやってます。たまに焼肉のために本気を出して同人誌を書くこともあります。この本のアイコンは技術書典のサークル画像として設定しているものです。本当はゲームばっかりしていたいです。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/saito.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        齊藤礼奈\\      
+        \end{minipage}
+    \hspace{1ex} 
+//}
+新卒でIT企業に入社して2年目になりました。
+休日は動画作ったり、ギター弾いたり、ソフトテニスしたり・・・ いろんなことしています
+　
 == 表紙イラスト・デザイン　
 //embed{
     \begin{minipage}{.1\linewidth}
