@@ -268,6 +268,19 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
 //}
 のんびりPythonのソフトウェアエンジニアやってます。たまに焼肉のために本気を出して同人誌を書くこともあります。この本のアイコンは技術書典のサークル画像として設定しているものです。本当はゲームばっかりしていたいです。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/onigiri_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ターク @onigiri\_ https://twitter.com/onigiri\_\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+金融系の企業でバンキングやペイメントアプリを開発するチームのテックリードをしております。Webフロントエンドが主に得意です。最近はRustとかを勉強しています。
+たまに合同誌に少し寄稿したりするくらいなので、がっつり執筆に関わりたいと思ってN年目が経ちました。
+
 == 表紙イラスト・デザイン　
 //embed{
     \begin{minipage}{.1\linewidth}
