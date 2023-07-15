@@ -268,7 +268,7 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
 //}
 のんびりPythonのソフトウェアエンジニアやってます。たまに焼肉のために本気を出して同人誌を書くこともあります。この本のアイコンは技術書典のサークル画像として設定しているものです。本当はゲームばっかりしていたいです。
 
-
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -283,7 +283,7 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
 新卒でIT企業に入社して2年目になりました。
 休日は動画作ったり、ギター弾いたり、ソフトテニスしたり・・・ いろんなことしています
 
-  
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -291,7 +291,7 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
         \includegraphics[width=.75\linewidth]{images/contributors/onigiri_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ターク @onigiri\_ https://twitter.com/onigiri\_\\
+        おにぎり @onigiri\_ https://twitter.com/onigiri\_\\
         \end{minipage}
     \hspace{1ex}
 //}
