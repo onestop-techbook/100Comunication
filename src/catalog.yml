@@ -102,6 +102,9 @@ CHAPS:
       - chap-oyakata-invitation.re
       - chap-remoteworkcommunication.re
       - chap-shareinformation.re
+      - chap-party.re
+      - chap-event-whotalk.re
+      - chap-gowithchild.re
 
 
 POSTDEF:
