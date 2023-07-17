@@ -106,6 +106,7 @@ CHAPS:
       - chap-event-whotalk.re
       - chap-gowithchild.re
       - chap-english-kawahara.re
+      - chap-englishuse.re
 
 POSTDEF:
   - postscript.re
