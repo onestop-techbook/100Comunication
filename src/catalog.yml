@@ -97,7 +97,13 @@ CHAPS:
       - chap-headset.re
       - chap-slacknotification.re
       - chap-kabeuchi.re
-
+      - chap-communitybase.re
+      - chap-oyakata-invitation.re
+      - chap-remoteworkcommunication.re
+      - chap-shareinformation.re
+      - chap-party.re
+      - chap-event-whotalk.re
+      - chap-gowithchild.re
 
 POSTDEF:
   - postscript.re
