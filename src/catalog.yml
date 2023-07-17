@@ -53,6 +53,7 @@ CHAPS:
       - chap-cfp-kawahara.re
       - chap-community-giveandgive.re
       - chap-yumechi-before-cfp.re
+      - chap-fastest-online.re
 
 
   # 4部 その他
@@ -94,6 +95,7 @@ CHAPS:
       - chap-gengai.re
       - chap-hanlon-razor.re
       - chap-rhodium-1.re
+      - chap-rhodium-2.re
       - chap-specification.re
       - chap-headset.re
       - chap-slacknotification.re
