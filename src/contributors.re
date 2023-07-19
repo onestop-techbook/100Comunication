@@ -298,6 +298,22 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
 金融系の企業でバンキングやペイメントアプリを開発するチームのテックリードをしております。Webフロントエンドが主に得意です。最近はRustとかを勉強しています。
 たまに合同誌に少し寄稿したりするくらいなので、がっつり執筆に関わりたいと思ってN年目が経ちました。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/k_okajima.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        岡島一樹 @k-okajima\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+福井県でソフトウェア開発エンジニアをやっています。コミュニティ活動として主にあじゃてくの広報活動をしつつ、色々なことに挑戦してみたいと思っているオッサンです。@<br>{}
+コミュニティ活動などの個人ブログ @<href>{https://note.com/k_okajima} @<br>{}
+たまに書く技術ブログ @<href>{https://qiita.com/k-okajima}
+
 == 表紙イラスト・デザイン　
 //embed{
     \begin{minipage}{.1\linewidth}
