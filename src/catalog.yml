@@ -109,6 +109,7 @@ CHAPS:
       - chap-gowithchild.re
       - chap-english-kawahara.re
       - chap-englishuse.re
+      - chap-niiyama.re
 
 POSTDEF:
   - postscript.re
