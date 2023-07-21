@@ -110,6 +110,7 @@ CHAPS:
       - chap-english-kawahara.re
       - chap-englishuse.re
       - chap-niiyama.re
+      - chap-howto-writeread.re
 
 POSTDEF:
   - postscript.re
