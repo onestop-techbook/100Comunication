@@ -109,6 +109,7 @@ CHAPS:
       - chap-shareinformation.re
       - chap-niiyama.re
       - chap-howto-writeread.re
+      - chap-nabekura-twitter.re
 
 POSTDEF:
   - postscript.re
