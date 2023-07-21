@@ -25,6 +25,18 @@ CHAPS:
       - chap-remotepc.re
       - chap-cross-project.re
       - chap-ithink-work-com.re
+      - chap-job-change-tark.re
+      - chap-workcation-commu.re
+      - chap-entrysheet.re
+      - chap-work-bizcom.re
+      - chap-kinasato.re
+      - chap-zakkiea.re
+      - chap-task-control.re
+      - chap-specification.re
+      - chap-slacknotification.re
+      - chap-remoteworkcommunication.re
+      - chap-english-kawahara.re
+      - chap-englishuse.re
 
   # 2部 友人
   - chap-friend-00-index.re:
@@ -42,6 +54,10 @@ CHAPS:
       - chap-onlinefarewell.re
       - chap-family-ebichiki.re
       - chap-distant-granma-com.re
+      - chap-zajonc.re
+      - chap-letterfromelementaryschool.re
+      - chap-gengai.re
+      - chap-gowithchild.re
 
   # 4部 勉強会・コミュニティ
   - chap-community-00-index.re:
@@ -54,9 +70,13 @@ CHAPS:
       - chap-community-giveandgive.re
       - chap-yumechi-before-cfp.re
       - chap-fastest-online.re
+      - chap-gatheringandpresen.re
+      - chap-kabeuchi.re
+      - chap-communitybase.re
+      - chap-party.re
+      - chap-event-whotalk.re
 
-
-  # 4部 その他
+  # 5部 その他
   - chap-other-00-index.re:
       - chap-FaceToFace-gomana2.re
       - chap-fact-erukiti.re
@@ -71,44 +91,22 @@ CHAPS:
       - chap-comfortabletext.re
       - chap-MutualUnderstanding-fan.re
       - chap-mymedia.re
-      - chap-job-change-tark.re
       - chap-oyakata-100agile.re
       - chap-hourensou.re
       - chap-livecording.re
-      - chap-gatheringandpresen.re
       - chap-readingevent.re
-      - chap-workcation-commu.re
-# 入れるところ未定
-      - chap-entrysheet.re
       - chap-infosharetriangle.re
       - chap-exact-terms.re
       - chap-fractal.re
       - chap-radio_communication.re
-      - chap-work-bizcom.re
-      - chap-kinasato.re
       - chap-tradeiscom.re
-      - chap-zajonc.re
-      - chap-zakkiea.re
-      - chap-task-control.re
       - chap-fumiyasac.re
-      - chap-letterfromelementaryschool.re
-      - chap-gengai.re
       - chap-hanlon-razor.re
       - chap-rhodium-1.re
       - chap-rhodium-2.re
-      - chap-specification.re
       - chap-headset.re
-      - chap-slacknotification.re
-      - chap-kabeuchi.re
-      - chap-communitybase.re
       - chap-oyakata-invitation.re
-      - chap-remoteworkcommunication.re
       - chap-shareinformation.re
-      - chap-party.re
-      - chap-event-whotalk.re
-      - chap-gowithchild.re
-      - chap-english-kawahara.re
-      - chap-englishuse.re
       - chap-niiyama.re
       - chap-howto-writeread.re
 
