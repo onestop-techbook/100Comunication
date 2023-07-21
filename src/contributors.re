@@ -306,12 +306,60 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         岡島一樹 @k-okajima\\
+        コミュニティ活動などの個人ブログ https://note.com/k\_okajima\\
+        たまに書く技術ブログ https://qiita.com/k-okajima
         \end{minipage}
     \hspace{1ex}
 //}
-福井県でソフトウェア開発エンジニアをやっています。コミュニティ活動として主にあじゃてくの広報活動をしつつ、色々なことに挑戦してみたいと思っているオッサンです。@<br>{}
-コミュニティ活動などの個人ブログ @<href>{https://note.com/k_okajima} @<br>{}
-たまに書く技術ブログ @<href>{https://qiita.com/k-okajima}
+福井県でソフトウェア開発エンジニアをやっています。コミュニティ活動として主にあじゃてくの広報活動をしつつ、色々なことに挑戦してみたいと思っているオッサンです。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/niiyama_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        新山某　https://twitter.com/RPA\_Niiyama\\
+        https://qiita.com/RPA\_Niiyama
+        \end{minipage}
+    \hspace{1ex}
+//}
+紅茶浸りで流浪のOL31年生。2018年から、WinActor, UiPath, PADでお仕事させていただいているRPA母ちゃんです。小さなロボットを作成するための、絵本のようなマニュアルを企画中。どこかで登壇していたら、生暖かく応援してやってください♪
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/rhodium_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ロジウム https://twitter.com/\_rhodium\_\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+都内某所でSE(sales engineer)をやっています。専門は有機化学。放送大学で心理学を勉強中。基本情報は取りましたが、応用情報には手を出していない感じの日曜プログラマーです。
+コミュニケーションのレベルは「この生きづらさはASDだからだろう」と検査したら、「ただのコミュ障ですね」と言われるぐらい……。日々勉強です。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ditflame_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ごめこ @gomeko\_poo\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+ごめこさん　記載予定※未受領
+
+　
+
+　
 
 == 表紙イラスト・デザイン　
 //embed{
