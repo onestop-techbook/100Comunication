@@ -31,7 +31,7 @@ CHAPS:
       - chap-work-bizcom.re
       - chap-kinasato.re
       - chap-zakkiea.re
-      - chap-minures.re
+      - chap-minutes.re
       - chap-task-control.re
       - chap-specification.re
       - chap-slacknotification.re
@@ -112,6 +112,8 @@ CHAPS:
       - chap-niiyama.re
       - chap-howto-writeread.re
       - chap-nabekura-twitter.re
+      - chap-99.re
+      - chap-100.re
 
 POSTDEF:
   - postscript.re
