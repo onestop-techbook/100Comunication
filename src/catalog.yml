@@ -31,6 +31,7 @@ CHAPS:
       - chap-work-bizcom.re
       - chap-kinasato.re
       - chap-zakkiea.re
+      - chap-minures.re
       - chap-task-control.re
       - chap-specification.re
       - chap-slacknotification.re
@@ -47,6 +48,7 @@ CHAPS:
       - chap-favorability4.re
       - chap-favorability5.re
       - chap-yumechi-friend-1.re
+      - chap-oyakata-1on1.re
 
   # 3部 家族
   - chap-family-00-index.re:
