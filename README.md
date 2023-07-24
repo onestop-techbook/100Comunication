@@ -1,8 +1,4 @@
 # 100Comunication
 
 ## CI
-https://app.wercker.com/oyakata2438/100Comunication/runs
-でPDFが書きだされます。
-一番上のBuildをクリックすると展開されるので、
-Output Artifactをクリックして、Download artifactをクリックすると、
-tarで固めたpdfがダウンロードできます。
+GitHub ActionsでPDFを書き出しています。Actionsタブから該当コミットをクリック、画面下部のArtifactsをクリックするとPDFの含まれるZipファイルがダウンロードできます。保存期間はpushから3日間です。
