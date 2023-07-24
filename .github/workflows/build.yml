@@ -17,3 +17,4 @@ jobs:
         with:
           name: Artifacts
           path: src/*.pdf
+          retention-days: 3
