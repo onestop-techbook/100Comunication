@@ -55,12 +55,12 @@ CHAPS:
   - chap-family-00-index.re:
       # 家族関係いろいろ
       - chap-onlinefarewell.re
-      - chap-family-ebichiki.re
       - chap-distant-granma-com.re
+      - chap-family-ebichiki.re
       - chap-zajonc.re
       - chap-letterfromelementaryschool.re
-      - chap-gengai.re
       - chap-gowithchild.re
+      - chap-gengai.re
 
   # 4部 勉強会・コミュニティ
   - chap-community-00-index.re:
