@@ -113,9 +113,11 @@ CHAPS:
       - chap-niiyama.re
       - chap-howto-writeread.re
       - chap-nabekura-twitter.re
+      - chap-datacompress-anddrop.re
+      - chap-compact-osoushiki.re
+      - chap-odayaka-bluesky.re
       - chap-99.re
       - chap-100.re
-      - chap-casual-kawahara.re
 
 POSTDEF:
   - postscript.re

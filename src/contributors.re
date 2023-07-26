@@ -348,16 +348,32 @@ Webマーケティング調査と事業計画立案。主に自己サービス�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/ditflame_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/gomeko_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        ごめこ @gomeko\_poo\\
+        ごめこ https://twitter.com/gomeko\_poo\\
         \end{minipage}
     \hspace{1ex}
 //}
-ごめこさん　記載予定※未受領
+名古屋在住。10年ちょっとWebやDTPのデザインに携わるも、平成の終わりとともに突如エンジニアリングに目覚めました。今は、外資系ITでUI/UXデザイナーをやっています。
 
 　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nabekura.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        なべくら @nabe\_\_kurage https://twitter.com/nabe\_\_kurage/\\
+        サークル名：たぬてっく
+        \end{minipage}
+    \hspace{1ex}
+//}
+なべくらなべくら
+
+　
+
 
 　
 
