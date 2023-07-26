@@ -40,7 +40,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/gomana2_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/gomana2_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ごまなつ @gomana2 https://twitter.com/akrolayer\\
