@@ -25,18 +25,18 @@ https://nitt-san.hatenablog.com/entry/2019/02/16/140844
 
 nitt-sanとのいきなり1on1は、控えめに言っても最高だったので、当日の生の感触については、以下のBlogを確認されたい。
 
- * 受けた側の感想
+ * 受けた側の感想@<fn>{oyakatablog}
 
 いきなり1on1　#22受けた　おやかた-note
 
-https://note.mu/oyakata2438/n/ndf8ee8c652a8
+//footnote[oyakatablog][いきなり1on1　#22受けた　おやかた-note https://note.mu/oyakata2438/n/ndf8ee8c652a8]
 
 
- * やった側のまとめ
+ * やった側のまとめ@<fn>{nitt-san}
 
 【いきなり1on1記録】第二十二回・おやかたさん　エンジニアリング、マネジメント、日常、生活
 
-https://nitt-san.hatenablog.com/entry/2019/03/27/225129
+//footnote[nitt-san][【いきなり1on1記録】第二十二回・おやかたさん　エンジニアリング、マネジメント、日常、生活 https://nitt-san.hatenablog.com/entry/2019/03/27/225129]
 
 === 1on1で何を話したか
 もちろん、具体的に1on1で話をした内容そのものは本章における本筋ではない。とはいえ、どういう内容を話して、最終的にどうなったかを例として取り上げることは意味があると考え、概要を示す。
